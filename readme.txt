@@ -7,6 +7,8 @@ pip install /path/to/your/package/dist/chatbot-0.1.tar.gz
 ----
 A program elérési weboldala:
 heroku url: https://immense-sea-95093-a6e0a2ea4595.herokuapp.com/
+Sajnos több nap kell még, hogy a Meta approve-olja a messenger alkalmazást, illetve, hogy teljesen live-ba legyen, kell rendes privacy policy, amim nekem nincs.
+Az alkalmazást így csak az én Facebook fiókommal lehet sajnos csak használni, még ha lokálisan is akarjuk futtatni egy ngrok szerveren.
 
 ----
 pylint kódelemzése:
